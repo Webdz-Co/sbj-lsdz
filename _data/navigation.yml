@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Some Random Page
+  url: /some-random-page/
+  excerpt: Here's a random excerpt
+  image:
+
+- title: Making Money
+  url: /making-money/
+  excerpt: Learn how to make money online
+  image:
