@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Lifestyle Design
-description: Making Friends and Money
+title: Lifestyle /dɪˈzaɪn/
+description: Mastering Health and Human Relations
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://webdz.co/sbj-lsdz
+url: http://lifestyledz.com
 
 # Jekyll configuration
 
