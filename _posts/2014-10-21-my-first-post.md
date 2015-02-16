@@ -1,15 +1,6 @@
 ---
 layout: article
 title: My First Post
-modified: null
-categories: null
-excerpt: null
-tags: []
-image: 
-  feature: null
-  teaser: null
-  thumb: null
-date: {}
 published: true
 ---
 
